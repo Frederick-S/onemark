@@ -34,7 +34,7 @@
     "copy-webpack-plugin": "^5.1.1",
     "css-loader": "^3.5.3",
     "html-webpack-plugin": "^4.5.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "ts-loader": "^7.0.2",
     "tslint": "^6.1.2",
