@@ -27,7 +27,7 @@
     "@fimbul/wotan": "^0.21.0",
     "@types/ace": "0.0.42",
     "@types/localforage": "0.0.34",
-    "@types/marked": "^0.7.4",
+    "@types/marked": "^2.0.2",
     "@types/mathjax": "0.0.36",
     "@types/promise.prototype.finally": "^2.0.3",
     "clean-webpack-plugin": "^1.0.1",
