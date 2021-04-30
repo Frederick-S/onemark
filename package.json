@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Frederick-S/markote#readme",
   "devDependencies": {
     "@fimbul/valtyr": "^0.21.0",
-    "@fimbul/ve": "^0.21.0",
+    "@fimbul/ve": "^0.24.0",
     "@fimbul/wotan": "^0.21.0",
     "@types/ace": "0.0.42",
     "@types/localforage": "0.0.34",
