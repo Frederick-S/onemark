@@ -47,7 +47,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "buefy": "^0.7.3",
     "localforage": "^1.9.0",
     "marked": "^1.2.0",
