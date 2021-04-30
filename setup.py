@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 requires = [
     'Flask==1.1.2',
-    'Authlib==0.14.3',
+    'Authlib==0.15.3',
     'pyquery==1.4.3',
     'cairosvg==2.1.3',
     'requests==2.25.1'
