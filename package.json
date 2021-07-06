@@ -25,7 +25,7 @@
     "@fimbul/valtyr": "^0.21.0",
     "@fimbul/ve": "^0.21.0",
     "@fimbul/wotan": "^0.21.0",
-    "@types/ace": "0.0.42",
+    "@types/ace": "0.0.47",
     "@types/localforage": "0.0.34",
     "@types/marked": "^0.7.4",
     "@types/mathjax": "0.0.36",
