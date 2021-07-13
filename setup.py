@@ -5,7 +5,7 @@ requires = [
     'Authlib==0.14.3',
     'pyquery==1.4.3',
     'cairosvg==2.1.3',
-    'requests==2.25.1'
+    'requests==2.26.0'
 ]
 
 setup(
